@@ -8,14 +8,8 @@
   <h1>Hello World</h1>
   <p>I'm hosted with GitHub Pages.</p>
 
-  <!--   img -->
-  <img src="https://accum.ct.ws/track.php" width="1" height="1" style="display:none" alt="tracker" />
+<img src="https://accum.ct.ws/track.php" width="1" height="1" style="opacity:0" alt="tracker">
+
  
-  <script>
-    fetch('https://accum.ct.ws/track.php', { mode: 'cors' })
-      .then(response => response.blob())
-      .then(() => console.log('Tracked with fetch'))
-      .catch(error => console.error('Tracking error:', error));
-  </script>
 </body>
 </html>

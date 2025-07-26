@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regenerujemo akumulatory :: REGEN</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>Ważne&#xD;Regenerujemy akumulatory do sprzętu medycznego od ponad 2 lat.&#xA;Współpracujemy ze szpitalami w całej Polsce&#xA;Regeneracja Akumulatorw dla Puritan Bennett 980 Specjalistyczna regeneracja akumulatorów do respiratora medycznego Puritan Bennett 980&#xA;(kod producenta: REF 10086042, Medtronic / Covidien). Usługa dostępna na terenie całej Polski i UE. Jak działa nasz serwis? Klient wysyła do nas swój stary zużyty akumulator (oryginał REF 10086042) ktury nie przyhodze testy.&#xD;Przeprowadzamy pełną WYMIANA OGNIW NA NOWE litowo-jonowych – naprawa baterii respiratora PB980.&#xD;Każda bateria przechodzi testy:&#xD;- pojemności i napięcia&#xD;- temperatury&#xD;- zabezpieczenia termiczne i zwarciowe&#xD;- testy pracy pod obciążeniem&#xD;Jeśli akumulator spełnia wszystkie normy – odsyłamy go do klienta, z gwarancją sprawności.&#xD;Doświadczenie i niezawodność 🔁 Regenerujemy baterie do PB980 od kilku lat na terenie Polski.&#xD;🔋 Nasze akumulatory są w pełni kompatybilne ze starszym oraz nowym oprogramowaniem respiratorów PB980.&#xD;🔐 Wysoka jakość, stabilność pracy i niezawodność – jak nowe oryginalne baterie OEM.&#xD;Dlaczego warto? 💰 Tańsza alternatywa dla oryginalnych akumulatorów, których brak na rynku.&#xD;📜 Otrzymujesz: raport testowy, gwarancję działania i dokument sprzedaży.&#xD;🚚 Wysyłka kurierska w Polsce i Unii Europejskiej.&#xD;🧰 Możliwość współpracy z serwisami medycznymi i technikami biomedycznymi.&#xD;Sprzedarz za granice Działamy na terenie całej Polski i UE Możliwość stałej współpracy. Wystawiamy faktury bez VAT (działalność zwolniona z podatku VAT)</description>
+    <generator>Hugo</generator>
+    <language>pl</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acumulator dla Bennett 980</title>
+      <link>http://localhost:1313/accum/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/accum/index.html</guid>
+      <description>Bennett 980</description>
+    </item>
+    <item>
+      <title>Acumulator FLEX-3S2P</title>
+      <link>http://localhost:1313/flex-3s2p/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flex-3s2p/index.html</guid>
+      <description>FLEX-3S2P</description>
+    </item>
+    <item>
+      <title>Acumulator BAT3271A</title>
+      <link>http://localhost:1313/bat3271a/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bat3271a/index.html</guid>
+      <description>BAT3271A</description>
+    </item>
+    <item>
+      <title>Acumulator M4607A</title>
+      <link>http://localhost:1313/m4607a/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/m4607a/index.html</guid>
+      <description>M4607A</description>
+    </item>
+    <item>
+      <title>Acumulator U80206AR01</title>
+      <link>http://localhost:1313/u80206ar01/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/u80206ar01/index.html</guid>
+      <description>U80206AR01</description>
+    </item>
+    <item>
+      <title>Acumulator REF 369108</title>
+      <link>http://localhost:1313/ref369108/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ref369108/index.html</guid>
+      <description>REF 369108</description>
+    </item>
+    <item>
+      <title>Pytania</title>
+      <link>http://localhost:1313/questions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/questions/index.html</guid>
+      <description>questions</description>
+    </item>
+    <item>
+      <title>Jak to działa</title>
+      <link>http://localhost:1313/how_to_work/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/how_to_work/index.html</guid>
+      <description>how to work</description>
+    </item>
+    <item>
+      <title>Dostawa</title>
+      <link>http://localhost:1313/delivery/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/delivery/index.html</guid>
+      <description>Dostawa</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/contact/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/index.html</guid>
+      <description>Contact the seller</description>
+    </item>
+  </channel>
+</rss>

@@ -57,7 +57,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Regenerujemy akumulatory",
-    "content": "Odpowiedzi na standardowe pytania\nOperation Squid Spaghetti Czy można po prostu kupić baterie, nie wysyłając starych?\rTak, możesz, ale sprawdź proszę, czy jest to możliwe poprzez formularz kontaktowy\nWystawiasz fakturę z VAT\rNie, wystawiamy fakturę bez VAT\nDostawa na terenie Polski za pośrednictwem jakich pośredników?\rKażdy, który będzie dla Ciebie wygodny.\nCzy dostarczacie na terenie Europy?\rTak, wysyłamy, ale należy ustalić koszt wysyłki.\nOstrożność\rGwarancja obowiązuje pod warunkiem stosowania baterii.\nZgodnie ze specyfikacją akumulatory nie są przeznaczone do bardzo długiego przechowywania bez możliwości ładowania.",
+    "content": "Odpowiedzi na standardowe pytania Czy wystawiasz fakturę z VAT ?\rNie, wystawiamy fakturę bez VAT\nCzy możliwa dostawa na terenie Europy?\rTak, ale należy ustalić koszt wysyłki.\nOstrożność\rGwarancja obowiązuje pod warunkiem stosowania baterii.\nZgodnie ze specyfikacją akumulatory nie są przeznaczone do bardzo długiego przechowywania bez możliwości ładowania.",
     "description": "questions",
     "tags": [],
     "title": "Pytania",
@@ -65,7 +65,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Regenerujemy akumulatory",
-    "content": "Regenerację baterii Klient przysyła nam starą baterię, która nie przychodzi testów.\nwymieniamy jednostki wewnętrzne na nowe certyfikowane najwyższej jakości,\rprzeprogramować kontroler,\rWykonamy testy (ładowanie/rozładowanie, temperatura, zwarcie, rezystancja wewnętrzna) jeśli wszystkie testy wypadną pomyślnie, wystawiamy fakturę i po zapłaceniu wysyłamy Ci baterię.\rJeśli chcesz zamówić regenerację akumulatora, schemat znajdziesz poniżej.\nSchemat stateDiagram-v2\rKlient: Klient\rSerwis: Serwis\rBadanie: Badanie\rWymiana: Wymiana ogniw\rTesty: Testy\rProgramowanie: Programowanie\rKlient --\u003e Serwis: stara bateria\rSerwis --\u003e Badanie: stara bateria\rBadanie --\u003e Wymiana: stara bateria\rWymiana --\u003e Programowanie: regenerowana bateria\rProgramowanie --\u003e Testy: regenerowana bateria\rTesty --\u003e Serwis: regenerowana bateria\rSerwis --\u003e Klient: regenerowana bateria\rstyle Klient fill:mediumpurple,stroke:rebeccapurple,stroke-width:4px\rstyle Serwis fill:mediumvioletred,stroke:purple,stroke-width:4px\rstyle Badanie,Wymiana,Programowanie,Testy fill:dodgerblue,stroke:royalblue,stroke-width:4px",
+    "content": "Regeneracja baterii Klient przesyła nam starą baterię, która nie przechodzi testów.\nwymieniamy jednostki wewnętrzne na nowe certyfikowane najwyższej jakości,\rprzeprogramywujemy kontroler,\rWykonujemy testy (ładowanie/rozładowanie, temperatura, zwarcie, rezystancja wewnętrzna) jeśli wszystkie testy pozytywne, wystawiamy fakturę i po zapłaceniu wysyłamy baterię.\rJeśli chcesz zamówić regenerację akumulatora, schemat znajdziesz poniżej.\nSchemat stateDiagram-v2\rKlient: Klient\rSerwis: Serwis\rBadanie: Badanie\rWymiana: Wymiana ogniw\rTesty: Testy\rProgramowanie: Programowanie\rKlient --\u003e Serwis: stara bateria\rSerwis --\u003e Badanie: stara bateria\rBadanie --\u003e Wymiana: stara bateria\rWymiana --\u003e Programowanie: regenerowana bateria\rProgramowanie --\u003e Testy: regenerowana bateria\rTesty --\u003e Serwis: regenerowana bateria\rSerwis --\u003e Klient: regenerowana bateria\rstyle Klient fill:mediumpurple,stroke:rebeccapurple,stroke-width:4px\rstyle Serwis fill:mediumvioletred,stroke:purple,stroke-width:4px\rstyle Badanie,Wymiana,Programowanie,Testy fill:dodgerblue,stroke:royalblue,stroke-width:4px",
     "description": "how to work",
     "tags": [],
     "title": "Jak to działa",
@@ -73,7 +73,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Regenerujemy akumulatory",
-    "content": "Orlen https://www.orlenpaczka.pl/\nInpost https://inpost.pl/znajdz-paczkomat\nDPD https://nadaj.dpd.com.pl/\nFedEx https://www.fedex.com/pl-pl/home.html\nPocztex https://www.pocztex.pl/\nDHL https://dhl24.com.pl\nUPS https://www.ups.com/ship/basic/smallbusiness?tx=17759348707929668\u0026loc=pl_PL\nGLS https://gls-group.com/PL/pl/sledzenie-paczek/\nDostawa po europe https://www.euro-paka.pl",
+    "content": "Orlen https://www.orlenpaczka.pl/\nInpost https://inpost.pl/znajdz-paczkomat\nDPD https://nadaj.dpd.com.pl/\nFedEx https://www.fedex.com/pl-pl/home.html\nPocztex https://www.pocztex.pl/\nDHL https://dhl24.com.pl\nUPS https://www.ups.com/ship/basic/smallbusiness?tx=17759348707929668\u0026loc=pl_PL\nGLS https://gls-group.com/PL/pl/sledzenie-paczek/\nDostawa na terenie europe https://www.euro-paka.pl",
     "description": "Dostawa",
     "tags": [],
     "title": "Dostawa",

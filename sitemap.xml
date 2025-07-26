@@ -1,14 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/pl/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://reaccum.github.io/</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/accum/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/flex-3s2p/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/bat3271a/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/m4607a/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/u80206ar01/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/ref369108/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/questions/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/how_to_work/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/delivery/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/contact/index.html</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_technical_specifications_en.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_technical_specifications_pl.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_operator_manual_1.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_operator_manual_2.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_Capnography.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://reaccum.github.io/files/Puritan_Bennett_980_Battery_pack_handling.pdf</loc>
+  <lastmod>2025-07-26T17:16:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
